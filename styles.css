@@ -1,0 +1,22 @@
+h1, h2 {
+  text-align: center;
+  }
+img {
+  display: block;
+  padding: 1px;
+  max-width: 100%; }
+image {  height: auto; }
+
+li {
+  padding: 2px;
+  margin: 10px;
+}
+
+body {background-color: rgb(0,100,155);
+color: #E0E0E0;}
+
+footer a {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
